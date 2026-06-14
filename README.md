@@ -62,7 +62,10 @@ MySQL Database
 
 # Screenshots
 
-
+## Dashboard Screenshot 
+![Dashboard](public/dashboard.png) 
+## AI Response Screenshot 
+![AI Response](public/response.png)
 
 ---
 
