@@ -61,19 +61,11 @@ MySQL Database
 ---
 # Screenshots
 
-## Dashboard
-
 <p align="center">
-  <img src="public/dashboard.png" width="900"/>
+  <img src="public/dashboard.png" width="45%"/>
+  <img src="public/response.png" width="45%"/>
 </p>
 
----
-
-## AI Response
-
-<p align="center">
-  <img src="public/response.png" width="900"/>
-</p>
 
 ---
 
