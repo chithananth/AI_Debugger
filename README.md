@@ -59,13 +59,21 @@ AI API Integration
 MySQL Database
 
 ---
-
 # Screenshots
 
-## Dashboard Screenshot 
-![Dashboard](public/dashboard.png) 
-## AI Response Screenshot 
-![AI Response](public/response.png)
+## Dashboard
+
+<p align="center">
+  <img src="public/dashboard.png" width="900"/>
+</p>
+
+---
+
+## AI Response
+
+<p align="center">
+  <img src="public/response.png" width="900"/>
+</p>
 
 ---
 
