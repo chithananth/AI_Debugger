@@ -59,9 +59,12 @@ AI API Integration
 MySQL Database
 
 ---
-
 # Screenshots
 
+<p align="center">
+  <img src="public/dashboard.png" width="45%"/>
+  <img src="public/response.png" width="45%"/>
+</p>
 
 
 ---
